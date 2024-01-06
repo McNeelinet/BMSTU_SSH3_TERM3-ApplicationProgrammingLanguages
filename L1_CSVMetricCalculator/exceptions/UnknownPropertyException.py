@@ -1,0 +1,2 @@
+class UnknownPropertyException(Exception):
+    pass
